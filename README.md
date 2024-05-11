@@ -13,6 +13,8 @@ Stack: Redis, Express, React, Node.js
 
 Navigate to localhost:3000 within your local browser to view the running application!
 
+<img src="SS.jpeg" width="400px"/>
+
 ## Future Improvements
 
 Style improvements. 
